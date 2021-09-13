@@ -1,5 +1,5 @@
 # Banking-Portal
- Banking Portal Knowledge Solutions Internship Project
+ Banking Portal - Knowledge Solutions India - Internship Project
  
  The Java and JSP files can be found in the 'bankproj' folder.
  
